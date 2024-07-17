@@ -1,0 +1,33 @@
+.subscribe{
+    background-color: cornsilk;
+    padding: 10px 20px 30px 500px;
+}
+section{
+    padding: 0 20px;
+    align-items: center;
+}
+section p{
+    padding-left: 500px;
+}
+
+section input[type="text"]{
+  height: 40px;
+  width: 40%;
+  border-radius: 5px;
+  background-color: white;
+  margin-bottom: 24px;
+  padding: 10px 10px;
+  display: block;
+  border: none;
+}
+
+.btn-primary {
+    background-color: hotpink;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 15px;
+}
+span{
+    font-size: 20px;
+}
