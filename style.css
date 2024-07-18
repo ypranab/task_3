@@ -1,18 +1,23 @@
+.center{
+    margin: auto;
+    width: 30%;
+    padding: 10px;
+    background-color: cornsilk;
+}
 .subscribe{
     background-color: cornsilk;
-    padding: 10px 20px 30px 500px;
 }
 section{
     padding: 0 20px;
     align-items: center;
 }
-section p{
-    padding-left: 500px;
+p{
+    text-align: center;
 }
 
 section input[type="text"]{
   height: 40px;
-  width: 40%;
+  width: 80%;
   border-radius: 5px;
   background-color: white;
   margin-bottom: 24px;
